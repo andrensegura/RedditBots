@@ -1,0 +1,23 @@
+﻿{
+  "bibbleskit": {
+    "Username": "bibbleskit",
+    "Full Name": "Swoogy Warflebottom",
+    "Delivery Address": "123 Fake St.\nCity, ST 11223",
+    "Country": "USA",
+    "I.S.": "Yes"
+  },
+  "bolilo": {
+    "Username": "bibbleskit",
+    "Full Name": "Swoogy Warflebottom",
+    "Delivery Address": "987 Fake St.\nCity, ST 11223",
+    "Country": "NZ",
+    "I.S.": "Yes"
+  },
+  "pseudogenesis": {
+    "Username": "bibbleskit",
+    "Full Name": "Swoogy Warflebottom",
+    "Delivery Address": "258 Fake St.\nCity, ST 11223",
+    "Country": "CA",
+    "I.S.": "No"
+  }
+}
