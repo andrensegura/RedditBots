@@ -105,7 +105,7 @@ def invalidCommand(command, recipient):
 #the command you want to send should be the subject of the message.
 
 def interpretCommand(message, author):
-    command = message.subject.lower()
+    command = message.subject.lower().strip()
 
     if (command == "giftee") or (command == "santa"):
         relayMessage(message.body, author, command)
